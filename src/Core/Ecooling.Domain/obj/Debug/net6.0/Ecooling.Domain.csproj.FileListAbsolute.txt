@@ -1,0 +1,12 @@
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\bin\Debug\net6.0\Ecooling.Domain.deps.json
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\bin\Debug\net6.0\Ecooling.Domain.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\bin\Debug\net6.0\Ecooling.Domain.pdb
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.csproj.AssemblyReference.cache
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\refint\Ecooling.Domain.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\Ecooling.Domain.pdb
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Core\Ecooling.Domain\obj\Debug\net6.0\ref\Ecooling.Domain.dll

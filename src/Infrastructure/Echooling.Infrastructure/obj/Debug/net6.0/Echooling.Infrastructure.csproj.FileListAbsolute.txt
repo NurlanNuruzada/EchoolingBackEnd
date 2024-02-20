@@ -1,0 +1,17 @@
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Echooling.Infrastructure.deps.json
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Echooling.Infrastructure.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Echooling.Infrastructure.pdb
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Echooling.Aplication.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Ecooling.Domain.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Echooling.Aplication.pdb
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\bin\Debug\net6.0\Ecooling.Domain.pdb
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.csproj.CopyComplete
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\refint\Echooling.Infrastructure.dll
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\Echooling.Infrastructure.pdb
+C:\Users\Nurlan\Desktop\FinalApp\BackEnd\Echooling\src\Infrastructure\Echooling.Infrastructure\obj\Debug\net6.0\ref\Echooling.Infrastructure.dll
